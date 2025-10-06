@@ -27,16 +27,18 @@ Copy code
 ## ⚙️ Installation
 
 ### 1. Clone the repository
-```bash
+
 git clone https://github.com/khaivutri/Movie-Recommender-System.git
 cd Movie-Recommender-System
-2. Set up a virtual environment (recommended)
+
+###2. Set up a virtual environment (recommended)
 bash
 Copy code
 python3 -m venv venv
 source venv/bin/activate       # macOS / Linux
 # venv\Scripts\activate        # Windows
-3. Install dependencies
+
+###3. Install dependencies
 bash
 Copy code
 pip install -r requirements.txt
@@ -148,8 +150,6 @@ Fork the repository
 
 Create a new branch:
 
-bash
-Copy code
 git checkout -b feature/amazing-feature
 Commit your changes:
 
